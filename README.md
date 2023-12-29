@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple example steps.
 1. Deploy a MySQL database and note server and port details.
 2. Clone the repo
    ```sh
-   git clone https://github.com/pakuang/TypeRacer.git
+   git clone https://github.com/pakuang/employeeMS.git
    ```
 3. Install NPM packages
    ```sh
