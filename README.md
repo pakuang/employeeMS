@@ -76,17 +76,17 @@ This EMS application hosted through React + Vite is a game-changing solution tha
 ## Usage
 
 Admin Login Example
-![admin login](../READMEAssets/adminLogin.png)
-![wrong login](../READMEAssets/wrongLogin.png)
+![admin login](READMEAssets/adminLogin.png)
+![wrong login](READMEAssets/wrongLogin.png)
 
 Main Dashboard
-![Alt text](../READMEAssets/dashboard.png)
+![Alt text](READMEAssets/dashboard.png)
 
 Employee Management and Organization
-![employee list](../READMEAssets/employeeList.png)
-![add employee](../READMEAssets/addEmployee.png)
-![edit employee](../READMEAssets/editEmployee.png)
-![category list](../READMEAssets/categoryList.png)
+![employee list](READMEAssets/employeeList.png)
+![add employee](READMEAssets/addEmployee.png)
+![edit employee](READMEAssets/editEmployee.png)
+![category list](READMEAssets/categoryList.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
